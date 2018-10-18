@@ -1,0 +1,8 @@
+dom4j ---》xml读写jar
+commons-logging--->日志规则打印
+spring-beans、spring-context、spring-core、spring-expression ---》spring 核心jar包
+aopalliance、aspectjweaver、spring-aop --->切面编程jar
+aop aspect(切面) orient（面向对象）programing（编程）---》处理资源释放等等。。。
+    1.注解
+    2.配置
+di里边有aop编程，aoptheory是aop编程原理
